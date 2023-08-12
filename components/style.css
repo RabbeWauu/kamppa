@@ -1,0 +1,10 @@
+#sub-container {
+  border: 1px solid black;
+  padding: 1em;
+  width: fit-content;
+}
+
+img {
+  width: 150px;
+  height: 100px;
+}
